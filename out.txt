@@ -1,0 +1,9 @@
+Enter 1 to process a file or 2 to process text: 
+Found 5 words.
+Enter 1 to process a file or 2 to process text: 
+Found 9 words.
+Enter 1 to process a file or 2 to process text: 
+file1.txt was empty
+TooSmallText: Only found 0 words.
+Enter 1 to process a file or 2 to process text: 
+TooSmallText: Only found 2 words.
